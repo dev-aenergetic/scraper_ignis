@@ -82,6 +82,7 @@ Excel : Contenido-tabla.xls
 
 ## Estructura del Proyecto
 scraper_ignis/
+```
 ├── .venv/
 ├── cfg/
 │   ├── .env.secret         # Credenciales (ignorado por Git)
@@ -94,4 +95,4 @@ scraper_ignis/
 │   └── scraper.py          # Orquestador principal del scraper
 ├── main.py                 # Punto de entrada
 └── readme.md
-
+```
